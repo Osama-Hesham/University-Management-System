@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\Osama\source\repos\UMS\UMS\main.cpp(22,24): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Osama\source\repos\UMS\UMS\main.cpp(22,20): warning C4309: 'argument': truncation of constant value
+C:\Users\Osama\source\repos\UMS\UMS\main.cpp(26,24): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Osama\source\repos\UMS\UMS\main.cpp(26,20): warning C4309: 'argument': truncation of constant value
+C:\Users\Osama\source\repos\UMS\UMS\main.cpp(73,23): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Osama\source\repos\UMS\UMS\main.cpp(73,19): warning C4309: 'argument': truncation of constant value
+C:\Users\Osama\source\repos\UMS\UMS\main.cpp(77,23): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Osama\source\repos\UMS\UMS\main.cpp(77,19): warning C4309: 'argument': truncation of constant value
+  UMS.vcxproj -> C:\Users\Osama\source\repos\UMS\Debug\UMS.exe
